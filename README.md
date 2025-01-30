@@ -6,4 +6,5 @@ Topics Covered:
  >Subqueries 
  >Window Functions
  >Triggers
+<br>
 Author--Suhana Sofiya Moossa
