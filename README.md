@@ -7,4 +7,4 @@ Topics Covered:
  >Window Functions
  >Triggers
 <br>
-Author--Suhana Sofiya Moossa
+Author--SuhanaSofiyaMoossa
